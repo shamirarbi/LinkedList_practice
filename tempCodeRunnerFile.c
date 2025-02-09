@@ -1,1 +1,6 @@
-n4->next = n1;
+if (item != NULL){
+    //     printf("Item found: %d\n",item->data);
+    // }
+    // else{
+    //     printf("Item not found\n");
+    // }
